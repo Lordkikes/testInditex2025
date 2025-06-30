@@ -57,6 +57,12 @@ src/main/java/com/testiniditex
 
 ---
 
+## 📷 Class Diagram
+
+![Product Sorting Preview](src/main/resources/testPuntajeInditex.jpg)
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites

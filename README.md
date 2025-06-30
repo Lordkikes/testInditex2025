@@ -171,6 +171,6 @@ mvn test
 
 ## 👤 Author
 
-Developed with passion by **Enrique Navarro**  
+Developed by **Enrique Navarro**  
 Senior Software Engineer 
 📍 Madrid, Spain

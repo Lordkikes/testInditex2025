@@ -144,16 +144,28 @@ API will be available at: [http://localhost:8080/swagger-ui.html](http://localho
 MySQL runs on port 3306 with:
 
 - Username: `root`
-- Password: `rootpassword`
+- Password: `rootpassword` // colocar la contraseña que usas en tu DB y ajustarlo en el aplication.properties
 - DB: `productdb`
 
 ---
+
+---
+
+## 🧪 Ejecutar Tests
+
+Para ejecutar los tests del proyecto, utiliza el siguiente comando:
+
+```bash
+mvn test
 
 ## ✨ Future Enhancements
 
 - Add more sorting criteria (rating, margin, etc.)
 - Pagination for large result sets
 - Client-specific sorting rules
+```
+
+---
 
 ---
 
